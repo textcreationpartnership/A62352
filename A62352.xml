@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The school of patience. Or, The benefit of affliction to the people of God Set forth in a short discourse of two great examples of patience: the one from the example of Job the other from the great exemplar, Christ Jesus.</title>
+         </titleStmt>
+         <extent>Approx. 31KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62352</idno><idno type="EEBO-CITATION">99831368</idno>
+  <idno type="VID">35831</idno>
+  <idno type="EEBO-PROQUEST">2240913623</idno>
+  
+            <idno type="STC">Wing S885</idno>
+            <idno type="STC">ESTC R219921</idno>
+            <idno type="PROQUEST">99831368</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831368e"/>
+            <note>(EEBO-TCP ; phase 2, no. A62352)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35831)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2043:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The school of patience. Or, The benefit of affliction to the people of God Set forth in a short discourse of two great examples of patience: the one from the example of Job the other from the great exemplar, Christ Jesus.</title>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Passenger at the Thre Bibles on London-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page woodcut.</note>
+                  <note>With a final advertisement leaf.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jesus Christ --  Example --  Early works to 1800.</term>
+               <term type="uniform_title">Bible. --  O.T. --  Job --  Early works to 1800.</term>
+               <term type="topical_term">Patience --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35831:1"/>
+            <pb facs="tcp:35831:1"/>
+            <p>The School of Patience. OR, <hi>The Benefit of Affliction to the People of God.</hi>
+            </p>
+            <p>Set forth in a short Discourse of two great Examples of Patience: the one from the Example of <hi>Job</hi> the other from the great Exemplar, <hi>Christ Jesus.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>Lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>don,</hi> Printed for <hi>Tho. Passenger</hi> at the Thre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Bibles on <hi>London-Bridge.</hi> 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35831:2"/>
+            <pb facs="tcp:35831:2"/>
+            <head>The School of Patience.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>James the</hi> 5 <hi>Chap.</hi> 11 <hi>Verse.</hi>
+                  </bibl>
+                  <p>Behold we count them happy which endure, ye have heard of the patience of <hi>Job,</hi> and have seen the end of the Lord, that the Lord is very pitiful, and of tender mercy.</p>
+               </q>
+            </epigraph>
+            <p>BEloved Christians, in the Book of <hi>Job</hi> we may read that memorable History touching his heavy Visitation, im<g ref="char:EOLhyphen"/>pregnable Patience, and blessed Issue at last: <hi>Job</hi> so lived in the world, that he be<g ref="char:EOLhyphen"/>came acceptable to God, and an Example or Pattern of Vertue to men. We read in the beginning of his book of his prosperous and happy condition, both in his children, and in his substance, and we soon after, read of his manifold sufferings, which through the insti<g ref="char:EOLhyphen"/>gation of Satan, and the holy permission and dispensation of God, fell upon his goods, and children, and person, even to the being mock<g ref="char:EOLhyphen"/>ed and féered by his own wife: Here his pa<g ref="char:EOLhyphen"/>tience did most wonderfully bear up, like a Palm-trée, against the weight of all oppres<g ref="char:EOLhyphen"/>sures. Now beloved Christians, the Lord
+<pb facs="tcp:35831:3"/> suffers his children yea the best of his Saints, to be many times afflicted by his and their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nemies, because, as I shall shew you,</p>
+            <p n="1">
+               <hi>1.</hi> It makes for the glory of his Power.</p>
+            <p n="2">
+               <hi>2.</hi> It makes for the glory of his Wisdom. <hi>Moses</hi> having declared in what manner the Lord permitted <hi>Pharaoh</hi> to oppress the chil<g ref="char:EOLhyphen"/>dren of <hi>Israel</hi> more and more, still hardening of his heart, shews the reason of it in these words, <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat I may multiply my miracles &amp; wonders in the land of Egypt that I may lay my hand upon Pharaoh, and bring <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut mine armies, even my people, by great judgments, that my power may be known, &amp; that I may declare my Name throughout all the world, Exod. 7.34. and 9.16.</hi>
+            </p>
+            <p>Gods Power is best made known in our weakness. <hi>2 Cor. 11.9.</hi> and our deliverance is so much y<seg rend="sup">t</seg> more wondred at, by how much the less expected. Impossibilities are the best ad<g ref="char:EOLhyphen"/>vancers of Gods glory: As God afflicts his children for the glory of his power, so also it makes for the glory of his wisdom. <hi>Josephs</hi> brethren sold him into <hi>Egypt,</hi> to prevent him that he might not reign over them, but God made it the only means of his reigning over them, <hi>Gen. 37.20.36.</hi> The chief Priests and Pharisées would put Christ to death, lest all men should believe in him, <hi>Joh. 11.47, 48.53</hi> when thereby chiefly all came to believe in
+<pb facs="tcp:35831:3"/> him; <hi>For</hi> (saith he) <hi>when I am lifted up from the earth, I will draw all men unto me, Joh. 12.32.</hi> He that could prevent our sufferings by his power, doth permit them in his wis<g ref="char:EOLhyphen"/>dome, that he may glorifie his mercy in our deliverance, and confirm our faith in the midst of déepest distress.</p>
+            <p n="3">
+               <hi>3.</hi> God many times afflicts his Children, that their graces may the more shine through imployment, and that the world may sée and take more notice of them: Surely if Gods ju<g ref="char:EOLhyphen"/>stice gets so much honor by a <hi>Pharaoh,</hi> much more doth his Mercy by a <hi>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ses! Abrahams</hi> faith, <hi>Jobs</hi> patience, <hi>Pauls</hi> courage and con<g ref="char:EOLhyphen"/>stancy, if they had not béen tried by the fire of affliction, their graces had béen hid as a can<g ref="char:EOLhyphen"/>dle under a bushel, which now to the glory of God shines throughout all the world. Who could know the faith, patience, and valour of Gods soldiers, if they alwaies lay in a Garri<g ref="char:EOLhyphen"/>son, and never came to the Skirmish? where<g ref="char:EOLhyphen"/>as they are now examples, <hi>&amp; put to silence the ignorance of foolish men, 1 Pet. 2.15.</hi> If Satan had known his afflicting of <hi>Job</hi> would have so much advanced the glory of God, and manifested <hi>Jobs</hi> admirable patience to all Ages, made such a glorious president for imi<g ref="char:EOLhyphen"/>tation to others, occasioned so much shame to himself, I doubt not but <hi>Job</hi> should have con<g ref="char:EOLhyphen"/>tinued prosperous and quiet; for who will
+<pb facs="tcp:35831:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:35831:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:35831:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:35831:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:35831:6"/> set upon his Adversary, when he knows he shall be shamefully beaten?</p>
+            <p n="4">
+               <hi>4</hi> God suffers his Children many times to be afflicted and persecuted by ungodly men, that so they may be brought to repentance, and to work in them amendment of life those bitter sufferings of <hi>Jobin</hi> his latter end made him to possesse the iniquities of his youth: if that néedle of affliction be drawn▪ thorow us by reason of wicked mens malice, it is but to convey it with the thread of amendment. Of admirable use is affliction to the godly, where the Lord is pleased to give patience to indure to the end! Oh that every poor soul could, as holy <hi>David,</hi> say, <hi>It was good for me that I was afflicted:</hi> for very often afflictions do stir us up to holy Duties. <hi>In their affliction,</hi> saith <hi>Hosea, they will seek thee diligently, Hos. 5.15.</hi> It makes a soul earnest in prayer, and prayer we know is the wing of the Soul wherewith it flies to Heaven. Now beloved friends, you sée that afflictions are oftentimes for the benefit of Gods Children, &amp; God doth afflict them in this life, that they may séek af<g ref="char:EOLhyphen"/>ter with much earnestness a better; for while we are in this world, we must not expect any true felicity, or any spiritual joy that can last long because this world is ful of inconstancy, to day we may be in the highest pitch of pro<g ref="char:EOLhyphen"/>sperity, and to morrow in the lowst pit of ad<g ref="char:EOLhyphen"/>versity,
+<pb facs="tcp:35831:6"/> as we have shewn you in that admi<g ref="char:EOLhyphen"/>rable Pattern of Patience, holy <hi>Job.</hi> Now there might be many reasons given why the Godly ought to be patient in suffering of wrongs, but I shal name but a few to you, to give you some satisfaction in this point.</p>
+            <p n="1">
+               <hi>1.</hi> They bear the slander and reproach of wicked men patiently, because they are false, and so do not belong to them. <hi>Diogenes</hi> was wont to say when the people mockt him, <hi>they deride me, yet I am not derided; I am not the man they take me for.</hi> If a rich man be called poor, or a sound Christian an hypocrite, he slights it, he laughs at it, because he know<g ref="char:EOLhyphen"/>eth the same to be false, and his accuser is mistaken: A good conscience is not put out of countenance with false accusations of slan<g ref="char:EOLhyphen"/>derous tongues. Innocence and Patience are two royal Bucklers sufficient to abate the repulse of a strong charge: the breast-plate of righteousness, and the brazen wall of a good Conscience, fear not the mischief of the greatest worldly Cannons.</p>
+            <p n="2">
+               <hi>2.</hi> The second Reason why the godly bear afflictions patiently is, because it is more laudable to forgive than to revenge. It's our Saviours own command <hi>Forgive your ene<g ref="char:EOLhyphen"/>mies, bless them that curse you.</hi> In taking re<g ref="char:EOLhyphen"/>venge, a man is but even with his enemy, but in passing over an injury thou art his supe<g ref="char:EOLhyphen"/>riour.
+<pb facs="tcp:35831:7"/> What is the reason of the mistake of the wicked men of the world, who judge <hi>Job</hi> a fool, and count <hi>David</hi> a coward, for their humble patience; This is the difference, theirs was the faith and patience of the saints, here is the infidelity and impatience of sinners, whom the Devil hath bewitched to glory in their shame.</p>
+            <p n="3">
+               <hi>3.</hi> Why Gods people endure afflictions with much patience is, because that by suffer<g ref="char:EOLhyphen"/>ing, many times they do prevent much suffer<g ref="char:EOLunhyphen"/>ing. <hi>If a wise man contend with a fool,</hi> saith <hi>Solomon, whether he be angry or laugh, there is no rest, Prov. 29 9.</hi> Whereas gentle spéech appeaseth wrath, &amp; patience bridleth the se<g ref="char:EOLhyphen"/>cret pratling of mockers, and blunteth the point of their reproach. Had not <hi>Gideon</hi> lear<g ref="char:EOLhyphen"/>ned to speak fair, as well as to smite, he had found work enough from the sword of <hi>Josephs</hi> sons, but his good words are as victorious as his sword, his pacifying of friends better than his execution of enemies.</p>
+            <p n="4">
+               <hi>4.</hi> The godly man suffers patiently, because he knoweth that his sins do deserve a farre greater punishment than is laid upon him: y<seg rend="sup">e</seg> godly man looketh not so much on the punish<g ref="char:EOLhyphen"/>ment as on the cause of it, which is sin: a god<g ref="char:EOLhyphen"/>ly man wil confess himself to be the chiefest of all sinners, &amp; therefore the greatest affli<g ref="char:EOLhyphen"/>ctions or punishment that can come upon any
+<pb facs="tcp:35831:7"/> one, it doth not undeservedly come upon him. This we may conclude, that the greatest ene<g ref="char:EOLhyphen"/>mies we have in this world, nay Satan the prince of the air, can do nothing to us with<g ref="char:EOLhyphen"/>out the permission of our Heavenly Father, and therefore let us with patience willingly labor to kéep up our selves above water, not trusting in any wise to our own strength, but lay all our confidence upon the shoulders of him that is able; yea and willing to support us, even the Lord Iesus Christ, who hath pro<g ref="char:EOLhyphen"/>mised to lay no more upon his children than he will enable them to bear.</p>
+            <p n="5">
+               <hi>5</hi> Let us bear patiently what the Lord is pleased to lay upon us, because by so doing our sufferings are made swéet, and we shall re<g ref="char:EOLhyphen"/>ceive for them many comfortable Blessings. Satan and the world may take many things from us, as they did from <hi>Job,</hi> both health, wealth, children, friends, &amp; all outward com<g ref="char:EOLhyphen"/>forts for a season, but they can never take God from us who gives all, and at the same time supplies the want of these with comforts far surpassing and transcending all other com<g ref="char:EOLhyphen"/>forts: therefore in the midst of misery let us say with <hi>J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b, Blessed be the name of the Lord.</hi> And further for thy encouragement, know that the Lord hath promised to be with a chri<g ref="char:EOLhyphen"/>stian in tribulation: this the Scripture holds forth in several examples, which I now for<g ref="char:EOLhyphen"/>bear to mention.</p>
+            <p n="6">
+               <pb facs="tcp:35831:8"/>
+               <hi>6.</hi> The godly sincere-hearted Christian doth patiently bear what the Lord lays upon him, because patience brings a reward with it. <hi>If you forgive men their trespasses</hi> (saith our Saviour) <hi>your Heavenly Father wil also forgive you: but if you forgive not men their trespasses, neither will your heavenly father forgive you your trespasses, Matth. 6.14, 15.</hi> Again, <hi>Blessed is the man</hi> (saith St. <hi>James) that endureth temptation with patience, for when he is tried, he shall receive the crown of life, 1 Jam. 12.</hi> We have a notable exam<g ref="char:EOLhyphen"/>ple in <hi>Moses,</hi> who was not onely patient in his suffering, but joyful, <hi>esteeming the rebuke of Christ greater riches than the treasure of Egypt, Heb. 11.26.</hi> St. <hi>Paul</hi> doth witness, <hi>that our light affliction which is but for a mo<g ref="char:EOLhyphen"/>ment</hi> (if it be born with patience) <hi>causeth un<g ref="char:EOLhyphen"/>to us a far more excellent &amp; eternal weight of glory, while we look not on the things that are seen, but on the things which are not seen 2 Cor. 4.17, 18.</hi> In these words we may ob<g ref="char:EOLhyphen"/>serve the infinite difference there is betwéen the work and the wages: light affliction re<g ref="char:EOLhyphen"/>ceives a weight of glory. If we suffer with Christ here, we sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll reign with him hereaf<g ref="char:EOLhyphen"/>ter: a true Christ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an is assured, that if his life be lost in the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rvice of Christ, yet his labor is not lost. Thus have I in brief given you some f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w reasons of many which I might give, to
+<pb facs="tcp:35831:8"/> shew you that the godly man can, and doth endure through the assistance of God, the Fa<g ref="char:EOLhyphen"/>thers afflictions with patience.</p>
+            <p>Having thus briefly given you an example out of the Old Testament of the admirable patience of <hi>Job</hi> in his sufferings, and from thence hinted to you the benefit which every true Christian doth gain by affliction, when the Lord is pleased to give him patience to submit to his will, I shall yet further set forth this glorious Gem in that never to be forgotten Pattern of Patience, the Lord Ie<g ref="char:EOLhyphen"/>sus Christ: but I shall be brief in it, because the Scripture doth sufficiently set forth the truth thereof. Observe the words of St. <hi>Pe<g ref="char:EOLhyphen"/>ter, 1 Pet. 2.21. Christ also suffered for you, leaving you an example that you should follow his steps.</hi> And it is written of him, <hi>That when he was reviled, he reviled not a<g ref="char:EOLhyphen"/>gain, when he suffered, he threatned not, 1 Pet. 2.23.</hi> He was called of his enemies Conjurer, Samaritane, Wine-bibber, was scoft at, and scorned, scourged, crucified, and what not? Yea he suffered in every place and part, he suffered hunger in the desart, he was resisted in the Temple, he was sorrowful in the Garden, he was reproached in the Iudge<g ref="char:EOLhyphen"/>ment-hall, and crucified without the City; in every part he suffer'd; his eyes run down with tears, and his temples with blood: his eye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:35831:9"/> received many buffets, they gave him gall &amp; vinegar to drink, they spit in his face, plated his head with thorns, his hands with nails, and his side with a spear, his heart was full of sorrow, and his soul with anguish, yea his whole body was crucified upon the Cross for our sins, and in his sufferings we cannot but take notice of his affections to poor sinners, he suffered willingly and patiently, he descended to take our flesh, that we might ascend to take his Kingdome: he descended to be cruci<g ref="char:EOLhyphen"/>fied, that we might ascend to be glorified: he descended into hell, that we might ascend up to heaven. O with what admirable patience did he suffer! He was oppressed and afflicted, yet opened he not his mouth, he was brought as a shéep to the slaughter, yet did he not open his mouth, as we may read, <hi>Isa. 22.53.7.</hi>
+            </p>
+            <p>Christ was so milde that the malice of his greatest enemies could not provoke him to wrath: yea when one of the disciples, <hi>Judas</hi> by name, came to betray him, Christ did not at all séem to frown upon him, nor did not check him; but (saith he) <hi>Wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t thou dost, do quickly.</hi> Christ upon the Cross gave us a very excellent Lecture of Patience. Oh the admi<g ref="char:EOLhyphen"/>rable méekness of the Lamb of God when the Iews cry out, <hi>Crucify him, his blood be up<g ref="char:EOLhyphen"/>on us, &amp; upon our Children,</hi> be crys out, <hi>Fa<g ref="char:EOLhyphen"/>ther forgive them, they know not what they
+<pb facs="tcp:35831:9"/> do!</hi> We have a notable example also in <hi>Ste<g ref="char:EOLhyphen"/>phen,</hi> who when the Iews were stoning of him to death, knéeled down and cryed with a loud voice, <hi>Lord lay not this sin to their charg Act. 7.60.</hi> He was a true scholar of Christ, for first he pray'd for his enemies, yea for his mortal enemies that stoned him, yea, all the time they did it, he was more sorry for their riot than for his own ruine. I could name many instances in Scripture of the patience of the Saints, which would make the wicked of the world stand and be amazed, but I think these few that I have given, are suffi<g ref="char:EOLhyphen"/>cient for this small Treatise, and I would before we come to a conclusion, desire every Christian to make a good use of these Exam<g ref="char:EOLhyphen"/>ples, and take notice of these few things that I shall lay down before you.</p>
+            <p n="1">
+               <hi>1</hi> Take notice, if God send afflictions up<g ref="char:EOLhyphen"/>on us, they are either for our instruction or reformation to try the truth of our sanctifica<g ref="char:EOLhyphen"/>tion, or for increase of our patience, though they séem grievous to us, yet they will not hurt us.</p>
+            <p n="2">
+               <hi>2</hi> If the malice of our enemies be great, yet the love of God to us is far greater; yet take notice that God loves his children so, as not to make them wantons.</p>
+            <p n="3">
+               <hi>3</hi> Take notice that the sufferings of Gods children, are the happy fore-runners of a joy<g ref="char:EOLhyphen"/>ful
+<pb facs="tcp:35831:10"/> issue, even the happy birth of saving re<g ref="char:EOLhyphen"/>pentance: He was not the best disciple that had the bag. And what was <hi>Haman</hi> the better for his honor, when the King frowned on him? or the happier for bring lift up the ladder, and came down again with a rope?</p>
+            <p n="4">
+               <hi>4.</hi> Be not thou inquisitive after the inten<g ref="char:EOLhyphen"/>tions of the Lord, but let it satisfie thée that what is laid upon thée, is laid upon thée by the Lord; though the world hate thée, and dispite<g ref="char:EOLhyphen"/>fully use thée, yet consider that it hath béen the portion of good-men, and God suffers the wicked man to afflict the righteous: we have many Scripture examples, but I forbear to mention them, because I must come to a con<g ref="char:EOLhyphen"/>clusion.</p>
+            <p n="5">
+               <hi>5.</hi> Take notice that the malice of our grea<g ref="char:EOLhyphen"/>test enemys can prove no more hurtful to us, than the devils spight to <hi>Job,</hi> than <hi>Judas</hi> his treason against the Lord of Life. This should cause us to cry out, <hi>O the deepness of the ri<g ref="char:EOLhyphen"/>ches both of the wisdom and knowledge of God, how unsearchable are his judgements, and his ways past finding out! Rom. 11.33.</hi>
+            </p>
+            <p n="6">
+               <hi>6.</hi> And lastly, let this provoke us to love our own souls: Though the malice of the world be never so great, yet let us in truth and sin<g ref="char:EOLhyphen"/>cerity look after the salvation of our never-dying Souls. If we do sincerely séek after Christ, we shal find him to be a Savior: when
+<pb facs="tcp:35831:10"/> our enemy shall finde him to be a just Reven<g ref="char:EOLhyphen"/>ger, we shal be loosed from sin when they shal be delivered into chains; therefore let this provoke us to love the Lord, and to endeavor to shew forth his vertues. To conclude then, if we be the séed of the woman, and our ene<g ref="char:EOLhyphen"/>mies the séed of the serpent, let us go before them in goodness as far as the Lord hath pre<g ref="char:EOLhyphen"/>ferred us before them in mercy.</p>
+            <p>There are several grounds of Comfort to support a Christian in his suffering, I shall only hint a few, and so make a conclusion of this short Discourse. The first is this:</p>
+            <p n="1">
+               <hi>1.</hi> That God is alwaies present with his children in their afflictions and sufferings, and takes great notice of their sufferings, therefore he doth enable them to bear y<seg rend="sup">e</seg> cross with patience and comfort. Take comfort in this swéet promise, <hi>I wil be with thee in trou<g ref="char:EOLhyphen"/>ble, and deliver thee, Psa. 91.15. And thou shalt not bee tempted above thy strength, 1 Cor. 10.10</hi> Again, <hi>Fear not, for when thou passest through the waters, I wil be with thee and through the floods, that they do not o<g ref="char:EOLhyphen"/>verflow thee: when thou walkest thorow the fire thou shalt not be burnt, neither shal the flame kindle upon thee, Isa. 43.1, 2.</hi> Lo here are precious Promises for poor afflicted Souls! therefore, O dear Christians, be not afraid what man can do unto you, take exam<g ref="char:EOLhyphen"/>ple
+<pb facs="tcp:35831:11"/> by <hi>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vid,</hi> who comforted himself upon this ground, he was refreshed in his soul, as we may read in <hi>Psal. 94.19. Though I should walk through the valley of the shadow of death, I will fear no evil:</hi> why? <hi>for thou art with me, thy rod and thy staffe shall comfort me, Psal. 23.9.</hi>
+            </p>
+            <p n="2">
+               <hi>2.</hi> Take comfort in this, that thy afflicti<g ref="char:EOLhyphen"/>ons do not come by accident or chance, but by the especial Providence of the Lord: Those who do afflict thée, are but the instru<g ref="char:EOLhyphen"/>ments it is the Lord that gives them power to do it for they cannot go beyond their com<g ref="char:EOLhyphen"/>mission. God doth often suffer it to be done, but as I told you, it is for the good of his children. If then they be but as instruments or tools in the work mans hand, we must look to the Authour, and not to the instrument. Let <hi>Joseph</hi> be sold into <hi>Egypt,</hi> he wil say to his enemies, <hi>Ye sent me not hither, but God; when ye thought evil against me, God dispo<g ref="char:EOLhyphen"/>sed it for good, Gen. 45.5.</hi> Or let <hi>David</hi> be rayled against by any cursed <hi>Shimei,</hi> he will answer, <hi>Let him alone, for he curseth, it may be the Lord hath bid him curse David, who then dare say, wherefore hast thou done so? 2 S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. 26.10.</hi>
+            </p>
+            <p n="3">
+               <hi>3.</hi> Let the consideration of this be a com<g ref="char:EOLhyphen"/>fort to us, that Christ and all the Saints have béen our partners in crosses and afflictions.
+<pb facs="tcp:35831:11"/> Look upon <hi>Abel</hi> who was slain by his brother. Look upon <hi>Noah</hi> who was calumnied. <hi>Lot,</hi> had his righteous soul vexed from day to day. <hi>Job</hi> you have read, was a man full of misery, who had nothing left but his wife, whom the Devil spared on purpose to vex him. It were easie to shew thée a large Catalogue, as <hi>Jo<g ref="char:EOLhyphen"/>seph, Jeremy, Daniel, John Baptist, St. Paul,</hi> and all the generation of Gods Children and servants. For the Apostle giveth a general Testimony of all the Saints in the Old Te<g ref="char:EOLhyphen"/>stament, that some endured the violence of fire, some were wrackt, others were tryed by mockings and scourgings, bonds and impri<g ref="char:EOLhyphen"/>sonments, some stoned, some sawn asunder, some slain with the sword, some wandred up and down in shéep-skins, and goat-skins, be<g ref="char:EOLhyphen"/>ing destitute, afflicted and tormented; some forced to wander in wildernesses and moun<g ref="char:EOLhyphen"/>tains, and hide themselves in dens, and caves of the earth, being such as the world were not worthy of, <hi>Heb. 11.</hi>
+            </p>
+            <p>So we read in Ecclesiastical History, of many of the Saints that suffered in the new Testament, for professing the Gospel, some were stoned, some crucified, and some behead<g ref="char:EOLhyphen"/>ed; some thrust thorow with Spears, and some burnt with fire, and the like. And it is well known that our Savior Christs whole life, even from his Cradle to his Grave.
+<pb facs="tcp:35831:12"/> was nothing else but a continual suffering: He that had all possessed nothing, except the punishment that was due to us for our sins.</p>
+            <p n="4">
+               <hi>4.</hi> Let this comfort us to bear afflictions patiently, because there is a recompence of reward promised to all that persevere in wel doing. Great may be our tryals, but we shal gain salvation by it one day. <hi>Blessed are they that mourn,</hi> (saith our Savior) <hi>for they shall be comforted, <hi>Matth.</hi> 5.4. Blessed are they which suffer persecution for righteousness <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake, for theirs is the Kingdom of Heaven, <hi>Ver.</hi> 10.</hi> They that suffer here for wel-doing, shall be crowned hereafter for wel suffering. 'Tis true, <hi>if in this life only we had hope in Christ, we were of all men most miserable,</hi> as the Apostle speaks in <hi>1 Cor. 15.19.</hi> But let us consider, that as this life is our hell here, so this life is the wicked mans heaven, <hi>Joh. 16.20.</hi> so the next life shall be their hell, and our heaven. Consider also, that there is not only a reward promised to those which suffer in Christs Cause, but the reward shall be answerable to their sufferings, for accord<g ref="char:EOLhyphen"/>ing to the measure of an affliction, God weigheth unto us of his graces.</p>
+            <p>Beloved Christians, to conclude, the whole Discourse, let me perswade you to be comfor<g ref="char:EOLhyphen"/>ted, though you live in the midst of tryals. Consider you have great cause to rejoyce and
+<pb facs="tcp:35831:12"/> be glad that you are counted worthy to suffer shame for Christs sake, <hi>Acts 5.41.</hi> It is not for nothing that <hi>Peter</hi> and <hi>John</hi> when they were beaten and imprisoned, departed from the Council rejoycing that they were counted worthy to suffer rebuke for Christ's Name, for they counted the Crosse of Christ a great glory to them. Therefore in a word, let me perswade you to beg of the Lord in all thy tryals, that he would be pleased to give thée patience under all crosses or afflictions that he shall be pleased to lay upon thée, and this will be thy greatest priviledge, which thou canst expect in this world.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="prayer">
+            <head>A short Prayer to intreat the Lord, that he would be pleased to give us Patience under any Afflictions.</head>
+            <p>O Eternal, Ever-living, and Ever-loving Lord God, thou art great and powerful, ful of Majesty, and infinite purity; thou fillest Heaven and Earth with thy Presence, and art in every place to hear the Prayers and Peti<g ref="char:EOLhyphen"/>tions
+<pb facs="tcp:35831:13"/> of thy poor people, that do truely be<g ref="char:EOLhyphen"/>lieve in thee: but O Lord, our lives have been so sinful, and our actions so vile; that how can we expect Mercy from thee who art so righteous a God? O Lord we must not come before thee in our own strength, but in the Name of thy Son Christ Jesus, humbly suing for thy grace, that we may repent &amp; believe in thee, for thy Promise sake, for thy Sons sake, send down thy holy spirit into our souls subdue our corruptions, change our hearts, and purifie our natures: Give unto us we beseech thee a true, lively &amp; justifying faith, whereby we may lay hold upon all thy pre<g ref="char:EOLhyphen"/>cious promises which thou hast made unto us in thy beloved Son Christ Jesus. Preserve and keep us O Lord from the temptations of Satan, the world and our wicked hearts, and wee intreat thee O Lord, endue us with wisdome and holiness, and let thy spirit guide and direct us in all estates and con<g ref="char:EOLhyphen"/>ditions: Lord if thou art pleased to bring us under trials and affliction, give us Pati<g ref="char:EOLhyphen"/>ence O Lord, and bear up our souls in the midst of sorrows. VVe know, O Lord, it was the portion of thy dear Son, when hee took our nature upon him, to be persecuted and reviled by wicked and ungodly men, yet Lord with what admirable Patience did he indure the reproaches of wicked men! and
+<pb facs="tcp:35831:13"/> it hath been the portion of al thy dear Chil<g ref="char:EOLhyphen"/>dren to meet with persecutions, yet O Lord thou hast sustained them, thou hast upheld them with the right hand of thy power; O Lord we live at this day in a sinful age, and we do not know how soon we may fall into the hands of unreasonable men, how soon we may be brought into bondage for owning thee &amp; thy Christ, Lord we beseech thee for<g ref="char:EOLhyphen"/>sake us not in a time of need, thou hitherto hast been graciously pleased to comfort us with thy everlasting mercies Lord, continue thy mercies to us, if it bee thy blessed will; however O Lord, give us the patience of the Saints, let not our hearts be troubled, but let us believe in thee, and then come what wil, or can come: though our bodys indure a lit<g ref="char:EOLhyphen"/>tle trouble, our souls shall enjoy everlasting happiness with thee for ever; with us O Lord remember thine all the world over, O Lord convert the Jews, bring in the fulness of the Gentiles; O Lord bring down Antichrist that man of sin, that exalts himself as high as the Heavens, Lord bring him down to hell, and O Lord we beseech thee look upon this sin<g ref="char:EOLhyphen"/>ful Kingdom whereof we are members, Lord let not profaneness over-run the nation, but let thy truth and gospel flourish. To this end O Lord, pour down the choicest of thy bles<g ref="char:EOLhyphen"/>sings upon the head and heart of thy Servant,
+<pb facs="tcp:35831:14"/> and our Soveraign <hi>Charles</hi> our King and Go<g ref="char:EOLhyphen"/>vernour, endue his royal heart with wisdom and understanding, let him be a defender of those which do well, let him bee a terror to evil doers. Bless him in his Royal consort, and in the rest of all his Relations, Lord bless all thy faithful Ministers of the Gospel, bring in laborers, and put out loyterers out of thy vineyard, give thy blessing O Lord to us, and to all ours. Preserve &amp; keep us all our life, O Lord, fit us for our latter end, that when we come to die, we may have nothing to do but to render up our souls to thee, who art our Redeemer: these mercies, and all others which thou knowest needful for us, we beg upon the account of thy Son, and our Savi<g ref="char:EOLhyphen"/>our Christ Jesus, to whom be given as is most due, all honor, glory, and praise, the remain<g ref="char:EOLhyphen"/>ing part of our lives, and for evermore. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:35831:14"/>
+            <head>Courteous Reader, these Books following are sold by <hi>Tho. Passenger</hi> at the three Bi<g ref="char:EOLhyphen"/>bles on <hi>London-Bridge.</hi>
+            </head>
+            <p>THe Wise Merchant: Or, The Peerless Pearl. By <hi>T. Calvert,</hi> Minister of Gods Word in the City of <hi>York.</hi>
+            </p>
+            <p>The Christian Combate: Or, His true Spi<g ref="char:EOLhyphen"/>ritual Warfare. By <hi>C. Love,</hi> late Minister of Gods Word in the City of <hi>London.</hi>
+            </p>
+            <p>The Book of Graces, with Prayers for Morning and Evening: All but three pence a piece.</p>
+            <p>The Sinners Warning-piece: Or, Heavens Messenger. By <hi>Tho. Robins</hi> B. of D.</p>
+            <p>Mans Chief Guide to Salvation. By <hi>T. R.</hi> B. of D.</p>
+            <p>The Scholars VVinter Garment: Or, The Garment of Righteousness. By <hi>T. R.</hi> Batche<g ref="char:EOLhyphen"/>lor of Divinity.</p>
+            <p>A Wonder of Wonders: Or, Gods peo<g ref="char:EOLhyphen"/>ple
+<pb facs="tcp:35831:15"/> the Worlds Wonder. By <hi>R. Hough.</hi>
+            </p>
+            <p>
+               <hi>Englands</hi> Golden Legacy: Or, A brief De<g ref="char:EOLhyphen"/>scription of the Mercies of God bestowed upon <hi>England.</hi> By <hi>L. P.</hi>
+            </p>
+            <p>Gods Message from Heaven to Sinners on Earth. By <hi>T. P.</hi> B. of D L.</p>
+            <p>The School of Learning: Being Prayers for Morning and Evening for every day in the Week; with Graces before and after Meat, and a short Catechism for Children.</p>
+            <p>The Vertuous Wife is the Glory of her Husband: Being a new Book, shewing the rare qualities of the truly vertuous woman.</p>
+            <p>Christ upon the Cross suffering for sinners, By <hi>S. S.</hi>
+            </p>
+            <p>Now or Never: work out your Salvati<g ref="char:EOLhyphen"/>on with fear and trembling, &amp;c.</p>
+            <p>Gods Call to Unconverted Sinners.</p>
+            <p>The School of Patience.</p>
+            <p>The Door of Salvation Opened.</p>
+            <p>These twelve last are but two pence a piece, and very seasonable for these sinfull times in which we live.</p>
+            <pb facs="tcp:35831:15"/>
+         </div>
+      </back>
+   </text>
+</TEI>
